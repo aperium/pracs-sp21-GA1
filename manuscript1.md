@@ -24,4 +24,4 @@ Earth's climate is changing at an unprecidented rate. `[quantify the magnitue of
 
 ## Conclusions
 
-
+We need to focus on solutions that scientifically plausible, socially acceptable, and politically feasible. 
