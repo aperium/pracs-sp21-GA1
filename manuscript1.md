@@ -8,6 +8,8 @@ date: 2 February 2021
 
 # Introduction
 
+Earth's climate is changing at an unprecidented rate. `[quantify the magnitue of the change with something visual that captures the reader's interest]` 
+
 # Magical solutions
 
 ## In the nick of time
