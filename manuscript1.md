@@ -4,22 +4,24 @@ author: Daniel R Williams
 date: 2 February 2021
 ---
 
-# Abstract
+# Magical Thinking in a Climate Crisis
 
-# Introduction
+## Abstract
+
+## Introduction
 
 Earth's climate is changing at an unprecidented rate. `[quantify the magnitue of the change with something visual that captures the reader's interest]` 
 
-# Magical solutions
+## Magical solutions
 
-## In the nick of time
+### In the nick of time
 
-## Technological reversal
+### Technological reversal
 
-## Exoplanet colonization
+### Exoplanet colonization
 
-# Nonmagical approaches
+## Nonmagical approaches
 
-# Conclusions
+## Conclusions
 
 
